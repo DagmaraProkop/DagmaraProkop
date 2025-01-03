@@ -1,16 +1,23 @@
-## Hi there 👋
+QA Tester / QA Engineer with CNC Programming background. I specialized in 5 axis milling machines nad CAD/CAM Software. Now I am expanding my knowledge and experience to new horizons. Privately I am involved in horses - natural and mechanical (passionate western rider and car mechanic).
 
-<!--
-**DagmaraProkop/DagmaraProkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Skills: 
+- JIRA
+- TestRail
+- JavaScript
+- Git
+- Postman
+- Visual Studio Code
+- DevTools
+- DBEaver
+- MSWord
+- MS Excel
 
-Here are some ideas to get you started:
+Projects:
+  1. Huntd Testing
+     [Documentation](https://github.com/DagmaraProkop/Huntd-tech.git)
+     [JIRA](https://qapart24dagmaraprokop.atlassian.net/jira/software/projects/HT/boards/5/backlog?atlOrigin=eyJpIjoiMWNiMzRhNzY2N2MyNGU0Yjg1YTVmYTljZjUyMGU1MjAiLCJwIjoiaiJ9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  2. Conduit Testing
+     [Documentation](https://github.com/DagmaraProkop/DagmaraProkop/blob/main/Conduit%20Home%20page%20decomposition%20task%20%5BDagmara%20Prokop%5D.docx)
+     [JIRA](https://qapart24dagmaraprokop.atlassian.net/jira/software/projects/CON/boards/1/backlog?atlOrigin=eyJpIjoiYjEzMWY1MzliYTUyNGQ4Zjk1OTk1NDJiNjc1NGIzZGQiLCJwIjoiaiJ9)
+     [[Postman](https://www.postman.com/dagmara-prokop/workspace/postman-practice-dagmara-prokop/collection/39745739-3da8917b-71f4-40d6-8865-e612870e18ba?action=share&creator=39745739)
