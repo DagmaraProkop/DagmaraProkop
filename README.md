@@ -21,3 +21,6 @@ Projects:
      [Documentation](https://github.com/DagmaraProkop/DagmaraProkop/blob/main/Conduit%20Home%20page%20decomposition%20task%20%5BDagmara%20Prokop%5D.docx)
      [JIRA](https://qapart24dagmaraprokop.atlassian.net/jira/software/projects/CON/boards/1/backlog?atlOrigin=eyJpIjoiYjEzMWY1MzliYTUyNGQ4Zjk1OTk1NDJiNjc1NGIzZGQiLCJwIjoiaiJ9)
      [[Postman](https://www.postman.com/dagmara-prokop/workspace/postman-practice-dagmara-prokop/collection/39745739-3da8917b-71f4-40d6-8865-e612870e18ba?action=share&creator=39745739)
+
+  3. Javascript Stateful Clones Task
+     [JS File](https://github.com/DagmaraProkop/js_stateful-clones/blob/3bd279541b73243b77623c122986d1f3238b15b5/src/transformStateWithClones.js)
